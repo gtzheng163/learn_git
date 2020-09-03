@@ -3,3 +3,15 @@ hello world
 我的Git学习：推送文件到远程。
 
 一些git的测试。
+
+git remote -v
+
+git remote remove origin
+
+git remote add origin git@github.com:gtzheng163/gtzheng.git
+
+git push -u origin master
+
+rm -r .git
+
+git init
